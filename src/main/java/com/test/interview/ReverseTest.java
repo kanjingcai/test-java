@@ -60,7 +60,7 @@ public class ReverseTest {
 		return result;
 	}
 
-	public int rev(int x) {ThreadLocal<T>
+	public int rev(int x) {
 		int head = x / 10;
 		int tail = x % 10;
 		long re = 0;
