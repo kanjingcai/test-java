@@ -1,4 +1,4 @@
-package com.test.thread.questions;
+package com.test.thread.questions.one;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
